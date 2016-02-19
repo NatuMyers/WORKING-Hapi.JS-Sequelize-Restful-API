@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "strongpassword",
+    "database": "raptroopdb",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "storage": "./db.development.my"
+  },
+  "test": {
+    "username": "root",
+    "password": "strongpassword",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "strongpassword",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
