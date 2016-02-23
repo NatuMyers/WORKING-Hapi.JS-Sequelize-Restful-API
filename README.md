@@ -1,5 +1,6 @@
 # WORKING-Hapi.JS-Sequelize-Restful-API
 
+From: nickolus.svbtle.com
 
 Today we are going to build a simple blog REST API using the [hapi](http://hapijs.com/) framework and some other various libraries as well. The source for this demo can be found [here](https://github.com/niix/hapi-rest-demo).
 
@@ -247,23 +248,3 @@ This is part one of a multiple part blog post. At this point we have created a `
 One of the tricky concepts that stumps newcomers to JavaScript is hoisting. Even seasoned developers coming from other languages can be bitten by this feature. In most C based languages developers are used to the concept of block based... <span class="continue_btn">Continue →</span>
 
 ](//nickolus.svbtle.com/hoisting)</section>
-
-<footer id="blog_foot" class="cf">
-
-*   [@nickolus](https://twitter.com/nickolus)
-
-<figure id="user_foot">[Svbtle](/)</figure>
-
-##### [Nick olus](//nickolus.svbtle.com)
-
-</footer>
-
-<footer id="foot">
-
-<figure id="logo_foot">[Svbtle](https://svbtle.com)</figure>
-
-[Terms](https://svbtle.com/terms) <span style="color: #ccc;">•</span> [Privacy](https://svbtle.com/privacy)  
-
-</footer>
-
-<script>var _sf_async_config = { uid: 1721, domain: 'svbtle.com'}; (function() { function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); }; var oldonload = window.onload; window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();</script>
