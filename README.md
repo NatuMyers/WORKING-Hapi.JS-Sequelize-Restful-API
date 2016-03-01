@@ -3,7 +3,7 @@
 From: nickolus.svbtle.com
 
 Today we are going to build a simple blog REST API using the [hapi](http://hapijs.com/) framework and some other various libraries as well. The source for this demo can be found [here](https://github.com/niix/hapi-rest-demo).
-
+ 
 Our `package.json` will look something like this:
 
     {
@@ -238,13 +238,3 @@ This is part one of a multiple part blog post. At this point we have created a `
 <div class="txt">Kudos</div>
 
 </figure>
-
-<section id="readnext">[
-
-#### Now read this
-
-### Hoisting
-
-One of the tricky concepts that stumps newcomers to JavaScript is hoisting. Even seasoned developers coming from other languages can be bitten by this feature. In most C based languages developers are used to the concept of block based... <span class="continue_btn">Continue →</span>
-
-](//nickolus.svbtle.com/hoisting)</section>
